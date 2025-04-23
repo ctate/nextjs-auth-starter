@@ -10,6 +10,12 @@ This repository provides a boilerplate to quickly set up a Next.js demo applicat
 - CRUD operations to create, view and delete blog posts
 - Pagination, filtering & relations queries
 
+## Deploy
+
+Vercel deployment will guide you through creating a Mux account and project with $20 of usage/month for $0.
+
+[![Deploy with Vercel](https://vercel.com/button)]([https://vercel.com/new/clone?repository-url=https://github.com/muxinc/next-video-starter&products=[{"type":"integration","productSlug":"mux","integrationSlug":"mux","protocol":"video"}]](https://vercel.com/new/clone?project-name=Next.js+%26+Prisma+Postgres+Auth+Starter[…]prisma-postgres%22%2C%22integrationSlug%22%3A%22prisma%22%7D%5D))
+
 ## Getting started
 
 ### 1. Install dependencies
